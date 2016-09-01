@@ -1,0 +1,13 @@
+{
+  "name": "node_in_a_box",
+  "version": "1.0.0",
+  "description": "An express app in a docker container",
+  "author": "Josh Malkinson <josh.malkinson@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
