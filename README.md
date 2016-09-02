@@ -11,3 +11,5 @@ cd node-in-docker
 npm install
 npm start
 ```
+
+You should see a URL in the output, i.e. `Listening on http://localhost:8080`, so you can navigate to this and see if everything has worked.
