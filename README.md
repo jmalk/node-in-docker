@@ -9,5 +9,5 @@ Checkout this repo, install the dependencies and fire it up:
 git clone git@github.com:jmalk/node-in-docker.git
 cd node-in-docker
 npm install
-node server.js
+npm start
 ```
